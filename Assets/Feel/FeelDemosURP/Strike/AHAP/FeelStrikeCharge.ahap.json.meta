@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 232a071ec2198754f84e37640167a61c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183370
+  packageName: Feel
+  packageVersion: 5.3
+  assetPath: Assets/Feel/FeelDemosURP/Strike/AHAP/FeelStrikeCharge.ahap.json
+  uploadId: 721757

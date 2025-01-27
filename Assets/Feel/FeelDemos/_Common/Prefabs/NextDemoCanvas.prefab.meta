@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a5ed96966948b2348b46dab87f87bbcf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183370
+  packageName: Feel
+  packageVersion: 5.3
+  assetPath: Assets/Feel/FeelDemos/_Common/Prefabs/NextDemoCanvas.prefab
+  uploadId: 721757

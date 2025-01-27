@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4af2802d0d23e0745b2171d0f301e6b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183370
+  packageName: Feel
+  packageVersion: 5.3
+  assetPath: Assets/Feel/FeelDemosURP/Strike/Materials/FeelStrikeReset.mat
+  uploadId: 721757

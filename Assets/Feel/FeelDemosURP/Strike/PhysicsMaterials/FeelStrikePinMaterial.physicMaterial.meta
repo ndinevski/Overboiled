@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e6ab50209c6684942998900eac93be10
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183370
+  packageName: Feel
+  packageVersion: 5.3
+  assetPath: Assets/Feel/FeelDemosURP/Strike/PhysicsMaterials/FeelStrikePinMaterial.physicMaterial
+  uploadId: 721757

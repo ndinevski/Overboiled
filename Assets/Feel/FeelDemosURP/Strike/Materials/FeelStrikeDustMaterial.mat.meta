@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b08df60923c49f43b4ac139195a81b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183370
+  packageName: Feel
+  packageVersion: 5.3
+  assetPath: Assets/Feel/FeelDemosURP/Strike/Materials/FeelStrikeDustMaterial.mat
+  uploadId: 721757

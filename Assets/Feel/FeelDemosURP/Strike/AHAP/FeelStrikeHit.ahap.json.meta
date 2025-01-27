@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3915a73d23676f548b2ade7e7cef6024
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183370
+  packageName: Feel
+  packageVersion: 5.3
+  assetPath: Assets/Feel/FeelDemosURP/Strike/AHAP/FeelStrikeHit.ahap.json
+  uploadId: 721757

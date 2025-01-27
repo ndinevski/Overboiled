@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 161d4f467023fbd478eb9f9fd2b7fd4e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183370
+  packageName: Feel
+  packageVersion: 5.3
+  assetPath: Assets/Feel/FeelDemosURP/Strike/StrikeURP/FeelStrikeLightingData.asset
+  uploadId: 721757

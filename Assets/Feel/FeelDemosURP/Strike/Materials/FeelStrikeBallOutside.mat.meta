@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08ba3bd3e33b0254281f7ea4348a4498
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183370
+  packageName: Feel
+  packageVersion: 5.3
+  assetPath: Assets/Feel/FeelDemosURP/Strike/Materials/FeelStrikeBallOutside.mat
+  uploadId: 721757

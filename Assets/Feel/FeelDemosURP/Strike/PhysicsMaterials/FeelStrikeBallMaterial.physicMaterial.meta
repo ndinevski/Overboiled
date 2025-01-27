@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5f96c3b2406aca43b4d6febedbfa899
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183370
+  packageName: Feel
+  packageVersion: 5.3
+  assetPath: Assets/Feel/FeelDemosURP/Strike/PhysicsMaterials/FeelStrikeBallMaterial.physicMaterial
+  uploadId: 721757
